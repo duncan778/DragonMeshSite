@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dragon Mesh - Разработка игр под Web и PC</title>
+    <link>https://dragonmesh.ru/ru/posts/</link>
+    <description>Recent content in Posts on Dragon Mesh - Разработка игр под Web и PC</description>
+    <generator>Hugo</generator>
+    <language>ru-RU</language>
+    <lastBuildDate>Mon, 30 Sep 2024 19:29:06 +0300</lastBuildDate>
+    <atom:link href="https://dragonmesh.ru/ru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Битва за острова</title>
+      <link>https://dragonmesh.ru/ru/posts/islands-battle/</link>
+      <pubDate>Mon, 30 Sep 2024 19:29:06 +0300</pubDate>
+      <guid>https://dragonmesh.ru/ru/posts/islands-battle/</guid>
+      <description>&lt;h2 id=&#34;стратегия-на-двоих&#34;&gt;Стратегия на двоих&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Битва за острова&lt;/em&gt; - моя первая многопользовательская игра. Она выполнена в жанре стратегии в морском сеттинге на двоих человек.&#xA;Да, там есть недоработки, где-то что-то подглючивает, но для меня это достаточно высокий уровень, и я рад, что игра увидела свет, и, возможно, будет развиваться дальше.&#xA;&lt;img alt=&#34;Битва за острова&#34; src=&#34;https://dragonmesh.ru/images/islandsbattle/newCoverMarka3VKvideo.jpg&#34; title=&#34;Битва за острова&#34;&gt;&#xA;Побеждая в боях, ты будешь зарабатывать жемчужины, на которые можно покупать и улучшать карточки островов. Таких карточек всего 9 штук, каждая добавляет каккое-то определенное свойство твоим островам, что может дать преимущество перед противником.&#xA;&lt;img alt=&#34;Карточки островов&#34; src=&#34;https://dragonmesh.ru/images/islandsbattle/cards_ru.jpg&#34; title=&#34;Карточки островов&#34;&gt;&#xA;Основной игровой процесс заключается в том, чтобы покупать новые корабли на островах и отправлять их на завоевание необитаемых островов или островов противника.&#xA;&lt;img alt=&#34;Геймплей&#34; src=&#34;https://dragonmesh.ru/images/islandsbattle/720x1280_23361.jpg&#34; title=&#34;Геймплей&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Игра &#34;Блокпост: это не мой авто&#34; на Яндекс.Играх</title>
+      <link>https://dragonmesh.ru/ru/posts/blockpost-release-yg/</link>
+      <pubDate>Mon, 30 Sep 2024 08:46:43 +0300</pubDate>
+      <guid>https://dragonmesh.ru/ru/posts/blockpost-release-yg/</guid>
+      <description>&lt;h2 id=&#34;привет-всем-у-нас-новинка-&#34;&gt;Привет всем! У нас новинка :)&lt;/h2&gt;&#xA;&lt;p&gt;В этот раз игру делал не в одиночку, а с геймдизайнером. Уверен, это даст о себе знать, и мы получим хорошие результаты, а игроки - интересную, хоть и простенькую, игру.&lt;/p&gt;&#xA;&lt;p&gt;Уже сейчас вы можете поиграть в игру &lt;em&gt;&amp;ldquo;Блокпост: это не мой авто&amp;rdquo;&lt;/em&gt; на &lt;a href=&#34;https://yandex.ru/games/app/374436?lang=ru&#34;&gt;Яндекс.Играх&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Блокпост: это не мой авто&#34; src=&#34;https://dragonmesh.ru/images/blockpost-cover2.jpg&#34; title=&#34;Блокпост: это не мой авто&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
